@@ -1,7 +1,4 @@
 <?php
-  // Our access token from the Dropbox App Panel
-  $accessToken = 'YOUR_DROPBOX_ACCESS_TOKEN';
-
   /*
    * Backup Options
    *
