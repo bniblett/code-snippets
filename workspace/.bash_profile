@@ -67,8 +67,7 @@ alias make10mb='mkfile 10m ./10MB.dat'      # make10mb:     Creates a file of 10
 #   5. NPM
 #   -------------------------------
 
-export NPM_TOKEN=5e0acc23-1e13-4eba-9730-bd78aff9cc5a
-
+export NPM_TOKEN=
 
 #   -------------------------------
 #   6. Docker Enhancements
