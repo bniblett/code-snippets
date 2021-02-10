@@ -1,0 +1,24 @@
+Issue Link
+----------
+[Link Label](https://www.link.com)
+
+Details:
+--------
+Ticket Details / Work Completed
+
+Acceptance Criteria
+--------------------
+These criteria should be checked off by someone **other** than the person who opened the PR
+
+- [x] Scenarios satisfied
+
+Definition of Done:
+-------------------
+- [ ] All tests passing and coverage updated
+- [ ] All acceptance criteria checked off
+- [ ] Two Approvals
+
+Merge Procedure:
+----------------
+- Merge (Still requires pull from develop)
+- Resolve conflicts
